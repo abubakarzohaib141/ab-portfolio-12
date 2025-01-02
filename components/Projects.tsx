@@ -31,7 +31,7 @@ const projects: Project[] = [
     title: "Portfolio-Website",
     description: "A Portfolio-Website build with Next.js , ShadCn , Gemini 2.0 API K.",
     imageUrl: "/portfolio.png",
-    githubUrl: "https://github.com/abubakarzohaib141/abz-portfolio-12",
+    githubUrl: "https://github.com/abubakarzohaib141/ab-portfolio-12",
     liveUrl: "https://abubakar10.vercel.app",
     category: "frontend"
   },
