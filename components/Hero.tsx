@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 import { Github, Linkedin, Twitter, Mail } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
-export function HeroSection() {
+export function Hero() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-sky-50 via-blue-50 to-indigo-100 flex items-center justify-center px-4 sm:px-6 lg:px-8">
       <div className="container mx-auto max-w-4xl">
