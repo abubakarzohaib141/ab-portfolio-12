@@ -22,7 +22,7 @@ export function HeroSection() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.2, duration: 0.5 }}
             >
-              John Doe
+              Abu Bakar
             </motion.h1>
 
             <motion.h2
@@ -31,7 +31,7 @@ export function HeroSection() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.3, duration: 0.5 }}
             >
-              Full Stack Developer
+             Agentic AI Developer
             </motion.h2>
 
             <motion.p
@@ -40,8 +40,8 @@ export function HeroSection() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.4, duration: 0.5 }}
             >
-              I build modern web applications with a focus on clean code, performance, and user experience. Specialized
-              in React, Next.js, and Node.js development.
+              I build agents with a focus on clean code, performance, and user experience. Specialized
+              in CrewAI Langchain LangGraph Development.
             </motion.p>
 
             <motion.div
@@ -62,9 +62,9 @@ export function HeroSection() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.6, duration: 0.5 }}
             >
-              <SocialLink href="https://github.com" icon={<Github />} label="GitHub" />
-              <SocialLink href="https://linkedin.com" icon={<Linkedin />} label="LinkedIn" />
-              <SocialLink href="https://twitter.com" icon={<Twitter />} label="Twitter" />
+              <SocialLink href="https://github.com/abubakarzohaib141" icon={<Github />} label="GitHub" />
+              <SocialLink href="https://linkedin.com/in/abubakar-software-wala" icon={<Linkedin />} label="LinkedIn" />
+              <SocialLink href="https://x.com/abubakar_1415" icon={<Twitter />} label="Twitter" />
               <SocialLink href="mailto:contact@example.com" icon={<Mail />} label="Email" />
             </motion.div>
           </motion.div>
@@ -76,7 +76,7 @@ export function HeroSection() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ delay: 0.3, duration: 0.5 }}
           >
-            <img src="/placeholder.svg?height=256&width=256" alt="Profile" className="w-full h-full object-cover" />
+            <img src="https://media.licdn.com/dms/image/v2/D5603AQHkvOS9fYY9GA/profile-displayphoto-shrink_400_400/B56ZWNaYejGQAg-/0/1741834259873?e=1750291200&v=beta&t=_UQvn4E7TccKAeUdvpcg_TYgAZjeJG1rKSOVALtT9qw" alt="Profile" className="w-full h-full object-cover" />
           </motion.div>
         </div>
       </div>
